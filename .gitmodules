@@ -1,0 +1,8 @@
+[submodule "node-express-socket-template"]
+	path = node-express-socket-template
+	url = https://github.com/rahulshah63/node-express-socket-template.git
+	branch = master
+[submodule "react-redux-socket-client-template"]
+	path = react-redux-socket-client-template
+	url = https://github.com/rahulshah63/react-redux-socket-client-template.git
+	branch = main
